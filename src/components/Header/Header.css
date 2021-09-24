@@ -1,0 +1,28 @@
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  display: block;
+  margin-bottom: 5px;
+}
+.nab-var {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.nab-var ul{
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+.nab-var ul li{
+  list-style: none;
+  width: 100px;
+  padding: 9px 0;
+  text-align: center;
+  
+}
+.nab-var ul li:hover{
+  background-color: red;
+}
