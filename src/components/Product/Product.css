@@ -1,0 +1,20 @@
+.product-container{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    border-bottom: 1px solid lightgray;
+    padding: 10px 10px;
+}
+.price{
+    font-weight: 400;
+}
+.heading{
+    font-weight: 500;
+}
+.addToCartButton{
+    width: 150px;
+    background-color: rgb(247, 168, 0);
+    color: white;
+    font-weight: 500;
+    border-style: none;
+    padding: 5px 0;
+}
